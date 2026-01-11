@@ -8,3 +8,8 @@ matplotlib
 scikit-learn
 imageio
 pillow
+
+
+stable-baselines3[extra]
+pygame
+tensorboard

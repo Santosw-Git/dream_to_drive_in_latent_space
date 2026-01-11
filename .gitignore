@@ -2,3 +2,6 @@ car_env/
 datasets/
 world_model_dataset/dataset.npz
 __pycache__/
+
+ppo_models/
+ppo_logs/
