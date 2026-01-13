@@ -23,8 +23,8 @@ Install all dependencies using:
 pip install -r requirements.txt
 
 ---
+![Architecture Pipeline](images/pipeline.png)
 
-Architecture – Pipeline:
 
 Description:
 
