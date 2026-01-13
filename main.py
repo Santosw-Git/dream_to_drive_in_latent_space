@@ -34,7 +34,7 @@ for ep in trange(NUM_EPISODES):
         done = terminated or truncated
         # terminated → failed or success condition
         # truncated → time limit reached
-        # print(obs.shape)
+        print(obs.shape)
         obs_small = cv2.resize(obs, (64, 64))
 
         all_obs.append(obs_small)
